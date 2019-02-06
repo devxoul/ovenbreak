@@ -6,7 +6,14 @@ Utils for [ovenapp.io](https://ovenapp.io)
 
 ## Installation
 
+### Chrome
+
 [![Available in the chrome web store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/ovenbreak/pbcfddahkfochmnecgifjeldojkhioid)
+
+### Safari
+
+1. Download **`ovenbreak.safariextz`** file from the [latest release](https://github.com/devxoul/ovenbreak/releases/latest).
+2. Follow [this instruction](https://georgegarside.com/blog/macos/install-any-safari-extension-macos-mojave/).
 
 ## Development
 
