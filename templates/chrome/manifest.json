@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Ovenbreak",
+  "description": "Utils for ovenapp.io",
+  "version": "0.1.0",
+
+  "permissions": [
+    "*://ovenapp.io/view/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://ovenapp.io/view/*"],
+      "js": ["app.js"]
+    }
+  ]
+}
